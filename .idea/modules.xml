@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ra16-forms-photo.iml" filepath="$PROJECT_DIR$/.idea/ra16-forms-photo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ra16-forms-steps/.idea/ra16-forms-steps.iml" filepath="$PROJECT_DIR$/../ra16-forms-steps/.idea/ra16-forms-steps.iml" />
     </modules>
   </component>
 </project>
